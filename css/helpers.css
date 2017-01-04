@@ -81,6 +81,10 @@
 .override .pn-a { position: absolute; }
 .override .pn-s { position: static; }
 
+/* Colors */
+.override .fc-w { color: #fff; }
+.override .fc-b { color: #000; }
+
 .override .c-p { cursor: pointer; }
 .override .a-s { -webkit-box-shadow: 0px 4px 10px 0px rgba(0,0,0,0.56); -moz-box-shadow: 0px 4px 10px 0px rgba(0,0,0,0.56); box-shadow: 0px 4px 10px 0px rgba(0,0,0,0.56);}
 .override .a-o:hover { opacity: 0.7; filter: alpha(opacity=70);}
