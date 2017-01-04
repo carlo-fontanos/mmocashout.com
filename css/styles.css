@@ -1,4 +1,4 @@
-body { color: #fff; background: #000; font-family: 'Roboto', sans-serif; }
+body { color: #fff; background: url('../img/body-bg.jpg') repeat-x center top #000B0B; font-family: 'Roboto', sans-serif; }
 
 header .top { background: url('../img/header-top-bg.jpg') repeat-x; min-height: 37px; }
 header .top .login-form { float: right; }
@@ -9,9 +9,26 @@ header .top .login-form input[type="submit"] { background: url('../img/btn-bg.jp
 header .top .login-form input[type="submit"]:hover { background: url('../img/btn-bg-reverse.jpg') repeat-x; }
 header .top select { background: url('../img/select-bg.jpg') repeat-x; border: 0; font-size: 13px; padding: 0 9px; height: 26px; margin-left: 7px; margin-top: 5px; width: 200px; outline: none; }
 header .top select option { color: #000; }
+header .top-2 { margin-top: 8px; }
+
+header nav ul { padding: 0; margin: 7px 0 0 0; background: url('../img/menu-bg.jpg') repeat-x; height: 45px; display: block; }
+header nav ul li { display: inline-block; width: 11.11%; text-align: center; }
+header nav ul li a { line-height: 45px; display: block; color: #64FFFF; text-transform: uppercase; }
+header nav ul li a:hover { background: url('../img/active-menu.jpg') no-repeat center; background-size:cover; color: #fff; text-decoration: none; }
+
+header .banner { margin-top: 10px; }
+header .banner .item .background { position: relative; z-index: -1; } 
+header .banner .item .dollar { position: absolute; left: 200px; top: 45px;  }
+header .banner .item .message { position: absolute; left: 0px; top: 185px; background: url('../img/slider-title-bg.png') repeat; padding: 10px 55px; text-align: center; }
+header .banner .item .message h1, header .banner .item .message h3, header .banner .item .message h4 { font-family: 'im_fell_great_primerregular'; text-shadow: 1px 4px #162132; padding-top: 3px; }
+header .banner .item .message h1 { font-size: 54px; margin: 0; color: #AC8E41; }
+header .banner .item .message h3 { font-size: 24px; margin: 0; }
+header .banner .item .message h4 { font-size: 21px; margin: 0; padding: 0; line-height: 120%; }
 
 @media screen and (max-width: 1200px) {
 	header .top { background: #01393a; }
+	.override header .top-2 a { float: none; }
+	header .top-2 img { display: block; margin: 0 auto; }
 }
 
 @media screen and (max-width: 992px) {
@@ -19,10 +36,15 @@ header .top select option { color: #000; }
 }
 
 @media screen and (max-width: 768px) {
-	header .top { padding: 0 10px; }
+	body, header .top { padding: 0 10px; }
 	header .top .login-form { float: none; }
 	header .top .login-form input, header .top select { width: 100%; margin: 7px 0; }
 	header .top select { margin: 20px 0; }
+	
+	header nav ul { background: #003a3b; height: auto; margin-top: 20px; }
+	header nav ul li { display: block; text-align: left; width: 100%; }
+	header nav ul li a { padding: 0 15px; border-bottom: 1px solid #0f5556; }
+	header nav ul li a:hover { background: #111C34; }
 }
 
 @media screen and (max-width: 480x) {
