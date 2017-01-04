@@ -19,11 +19,15 @@ header nav ul li a:hover { background: url('../img/active-menu.jpg') no-repeat c
 header .banner { margin-top: 10px; }
 header .banner .item .background { position: relative; z-index: -1; } 
 header .banner .item .dollar { position: absolute; left: 200px; top: 45px;  }
-header .banner .item .message { position: absolute; left: 0px; top: 185px; background: url('../img/slider-title-bg.png') repeat; padding: 10px 55px; text-align: center; }
+header .banner .item .message { position: absolute; left: 0px; top: 185px; background: url('../img/slider-title-bg.png') repeat; padding: 10px 55px; text-align: center; border-top: 1px solid #3B60AD; }
 header .banner .item .message h1, header .banner .item .message h3, header .banner .item .message h4 { font-family: 'im_fell_great_primerregular'; text-shadow: 1px 4px #162132; padding-top: 3px; }
 header .banner .item .message h1 { font-size: 54px; margin: 0; color: #AC8E41; }
 header .banner .item .message h3 { font-size: 24px; margin: 0; }
 header .banner .item .message h4 { font-size: 21px; margin: 0; padding: 0; line-height: 120%; }
+header .banner .item .join-now { position: absolute; right: 40px; bottom: 50px; text-align: center; }
+header .banner .item .join-now a { font-size: 36px; color: #fff; text-decoration: none; font-family: 'im_fell_great_primerregular'; background: url('../img/slider-btn-bg.jpg') no-repeat center; padding: 7px 14px; border-radius: 5px; border: 5px solid #fff; text-shadow: 1px 4px #162132; }
+header .banner .item .join-now a:hover { background: url('../img/slider-btn-bg-reverse.jpg') no-repeat center; }
+header .banner .item .join-now i { display: block; margin-top: 20px; }
 
 @media screen and (max-width: 1200px) {
 	header .top { background: #01393a; }
