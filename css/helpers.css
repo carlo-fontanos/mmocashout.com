@@ -2,8 +2,8 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto'); /* Usage: font-family: 'Roboto', sans-serif; */
 @font-face {
     font-family: 'im_fell_great_primerregular';
-    src: url('im-fell-great-primer-roman.woff2') format('woff2'),
-         url('im-fell-great-primer-roman.woff') format('woff');
+    src: url('../font/im-fell-great-primer-roman.woff2') format('woff2'),
+         url('../font/im-fell-great-primer-roman.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
