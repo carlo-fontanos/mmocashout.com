@@ -6,6 +6,7 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">	
 	<link rel="stylesheet" href="lib/bootstrap/bootstrap.min.css">	
 	<link rel="stylesheet" href="css/helpers.css">
 	<link rel="stylesheet" href="css/styles.css">
@@ -35,6 +36,9 @@
 			</div>
 			
 			<nav class="a-s">
+				<div class="menu-bar-responsive clearfix c-p">
+					<i class="fa fa-bars" aria-hidden="true"></i>
+				</div>
 				<ul>
 					<li><a href="#">Home</a></li
 					><li><a href="#">About</a></li

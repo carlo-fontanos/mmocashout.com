@@ -20,15 +20,22 @@ var app = {
          *
          */
         this.init = function() {
-            this.test();
+            this.nav_bar();
         }
         
         /**
-         * AJAX items pagination.
+         * Handle responsive navigation
          */
-        this.test = function(page, th_name, th_sort){
-            
-            alert('test');
+        this.nav_bar = function(){
+			$('body').on('click', '.menu-bar-responsive', function () {
+				$('header nav ul').slideToggle('fast');
+			});
+			
+			$(window).resize(function() {
+				if($(window).width() > 768 ){
+					$('header nav ul').slideDown('fast');
+				}
+			});
         }
     }
 }

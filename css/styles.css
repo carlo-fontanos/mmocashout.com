@@ -11,6 +11,7 @@ header .top select { background: url('../img/select-bg.jpg') repeat-x; border: 0
 header .top select option { color: #000; }
 header .top-2 { margin-top: 8px; }
 
+header nav .menu-bar-responsive { display: none; }
 header nav ul { padding: 0; margin: 7px 0 0 0; background: url('../img/menu-bg.jpg') repeat-x; height: 45px; display: block; }
 header nav ul li { display: inline-block; width: 11.11%; text-align: center; }
 header nav ul li a { line-height: 45px; display: block; color: #64FFFF; text-transform: uppercase; }
@@ -45,7 +46,10 @@ header .banner .item .join-now i { display: block; margin-top: 20px; }
 	header .top .login-form input, header .top select { width: 100%; margin: 7px 0; }
 	header .top select { margin: 20px 0; }
 	
-	header nav ul { background: #003a3b; height: auto; margin-top: 20px; }
+	header nav .menu-bar-responsive { display: block; background: #003a3b; padding: 10px; }
+	header nav .menu-bar-responsive i { float: right; color: #fff; font-size: 20px; }
+	header nav { margin-top: 20px; }
+	header nav ul { display: none; background: #003a3b; height: auto; }
 	header nav ul li { display: block; text-align: left; width: 100%; }
 	header nav ul li a { padding: 0 15px; border-bottom: 1px solid #0f5556; }
 	header nav ul li a:hover { background: #111C34; }
