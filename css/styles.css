@@ -1,0 +1,30 @@
+body { color: #fff; background: #000; font-family: 'Roboto', sans-serif; }
+
+header .top { background: url('../img/header-top-bg.jpg') repeat-x; min-height: 37px; }
+header .top .login-form { float: right; }
+header .top .login-form input { border-radius: 5px; border: 0; margin-right: 12px; margin-top: 5px; outline: none; }
+header .top .login-form input[type="text"] { height: 26px; font-size: 11px; min-width: 150px; color: #000; text-indent: 9px; background: #DBE8F3; box-shadow:inset 0 0 5px 0px #888; }
+header .top .login-form input[type="text"]::-webkit-input-placeholder { color: #008888; }
+header .top .login-form input[type="submit"] { background: url('../img/btn-bg.jpg') repeat-x; font-size: 13px; height: 27px; padding: 0 16px; }
+header .top .login-form input[type="submit"]:hover { background: url('../img/btn-bg-reverse.jpg') repeat-x; }
+header .top select { background: url('../img/select-bg.jpg') repeat-x; border: 0; font-size: 13px; padding: 0 9px; height: 26px; margin-left: 7px; margin-top: 5px; width: 200px; outline: none; }
+header .top select option { color: #000; }
+
+@media screen and (max-width: 1200px) {
+	header .top { background: #01393a; }
+}
+
+@media screen and (max-width: 992px) {
+	
+}
+
+@media screen and (max-width: 768px) {
+	header .top { padding: 0 10px; }
+	header .top .login-form { float: none; }
+	header .top .login-form input, header .top select { width: 100%; margin: 7px 0; }
+	header .top select { margin: 20px 0; }
+}
+
+@media screen and (max-width: 480x) {
+
+}
