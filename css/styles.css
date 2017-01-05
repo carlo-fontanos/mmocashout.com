@@ -30,6 +30,12 @@ header .banner .item .join-now a { font-size: 36px; color: #fff; text-decoration
 header .banner .item .join-now a:hover { background: url('../img/slider-btn-bg-reverse.jpg') no-repeat center; }
 header .banner .item .join-now i { display: block; margin-top: 20px; }
 
+.content .featured-games { background: url('../img/featured-games-bg.jpg') repeat-x #002928; padding-bottom: 25px; }
+.content .featured-games h2 { background: url('../img/post-title-bg.jpg') repeat-x; height: 45px; line-height: 45px; font-family: 'im_fell_great_primerregular'; font-size: 24px; text-align: center; }
+.content .featured-games .slide img { margin-bottom: 13px; }
+.content .featured-games .slide a.link { color: #fff; text-decoration: none; font-size: 13px; text-align: center; background: url('../img/btn-bg.jpg') repeat-x; height: 27px; padding: 0 16px; text-transform: uppercase; border-radius: 4px; }
+.content .featured-games .slide a.link:hover { background: url('../img/btn-bg-reverse.jpg') repeat-x; }
+
 @media screen and (max-width: 1200px) {
 	header .top { background: #01393a; }
 	.override header .top-2 a { float: none; }
