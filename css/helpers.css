@@ -96,6 +96,9 @@
 .override .link-btn:hover { background: url('../img/btn-bg-reverse.jpg') repeat-x; }
 .override hr { border-top: 1px solid #003333; }
 
+.override .carousel-control { width: 0; }
+.override .carousel-control img { position: absolute; top: 45%; z-index: 5;}
+
 @media screen and (max-width: 992px) {
 	.override .desappear-992 { display: none; }
 }

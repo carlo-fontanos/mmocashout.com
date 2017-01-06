@@ -45,11 +45,11 @@
 			</div>
 			
 			<a class="left carousel-control" href="#featured-games-slider" role="button" data-slide="prev">
-				<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+				<img src="img/nav-left.png" />
 				<span class="sr-only">Previous</span>
 			</a>
 			<a class="right carousel-control" href="#featured-games-slider" role="button" data-slide="next">
-				<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+				<img src="img/nav-right.png" />
 				<span class="sr-only">Next</span>
 			</a>
 		</div>
