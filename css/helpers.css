@@ -84,7 +84,23 @@
 /* Colors */
 .override .fc-w { color: #fff; }
 .override .fc-b { color: #000; }
+.override .fc-br { color: #C3A75E; }
+.override .fc-bl { color: #0C71B1; }
+.override .fc-g { color: #006464; }
 
 .override .c-p { cursor: pointer; }
 .override .a-s { -webkit-box-shadow: 0px 4px 10px 0px rgba(0,0,0,0.56); -moz-box-shadow: 0px 4px 10px 0px rgba(0,0,0,0.56); box-shadow: 0px 4px 10px 0px rgba(0,0,0,0.56);}
+.override .a-s-h:hover { -webkit-box-shadow: 0px 3px 20px 5px rgba(9,119,119,0.7); -moz-box-shadow: 0px 3px 20px 5px rgba(9,119,119,0.7); box-shadow: 0px 3px 20px 5px rgba(9,119,119,0.7);}
 .override .a-o:hover { opacity: 0.7; filter: alpha(opacity=70);}
+.override .link-btn { color: #fff; text-decoration: none; font-size: 13px; text-align: center; background: url('../img/btn-bg.jpg') repeat-x; display: inline-block; line-height: 27px; height: 27px; padding: 0 16px; margin: 13px 0; text-transform: uppercase; border-radius: 4px; }
+.override .link-btn:hover { background: url('../img/btn-bg-reverse.jpg') repeat-x; }
+.override hr { border-top: 1px solid #003333; }
+
+@media screen and (max-width: 768px) {
+	.override .p-r-rm, .override .pl-r-rm { padding-right: 0; }
+	.override .p-l-rm, .override .pl-l-rm { padding-left: 0; }
+	.override .pl-lr-rm, .override .p-lr-rm { padding-right: 0; padding-left: 0; }
+	.override .ml-l-rm, .override .m-l-rm { margin-left: 0; }  
+	.override .ml-r-rm, .override .m-r-rm { margin-right: 0; } 
+	.override .ml-lr-rm, .override .m-lr-rm { margin-right: 0; margin-left: 0;}
+}
