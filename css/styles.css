@@ -47,7 +47,7 @@ header .banner .item .join-now i { display: block; margin-top: 20px; }
 }
 
 @media screen and (max-width: 992px) {
-	.content .featured-games .slide img { display: block; width: 100%; padding: 10px; }
+	.content .featured-games .slide img { display: block; width: 100%; padding: 0 10px; }
 }
 
 @media screen and (max-width: 768px) {
@@ -63,6 +63,8 @@ header .banner .item .join-now i { display: block; margin-top: 20px; }
 	header nav ul li { display: block; text-align: left; width: 100%; }
 	header nav ul li a { padding: 0 15px; border-bottom: 1px solid #0f5556; }
 	header nav ul li a:hover { background: #111C34; }
+	
+	.content .news img.fl-l { width: 100%; margin-bottom: 10px; }
 }
 
 @media screen and (max-width: 480x) {
