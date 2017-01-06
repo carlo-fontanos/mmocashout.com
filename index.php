@@ -24,22 +24,24 @@
 						<a href="#" class="link-btn">Visit Site</a>
 					</div>
 				</div>
-				<!--
-				<div class="item">
-					<div class="col-sm-3">
-						<img src="img/carousel-1.jpg">
+				<div class="item text-center">
+					<div class="col-md-3 col-sm-6">
+						<img src="img/carousel-1.jpg" class="a-s a-s-h" />
+						<a href="#" class="link-btn">Visit Site</a>
 					</div>
-					<div class="col-sm-3">
-						<img src="img/carousel-2.jpg">
+					<div class="col-md-3 col-sm-6">
+						<img src="img/carousel-2.jpg" class="a-s a-s-h" />
+						<a href="#" class="link-btn">Visit Site</a>
 					</div>
-					<div class="col-sm-3">
-						<img src="img/carousel-3.jpg">
+					<div class="col-md-3 col-sm-6">
+						<img src="img/carousel-3.jpg" class="a-s a-s-h" />
+						<a href="#" class="link-btn">Visit Site</a>
 					</div>
-					<div class="col-sm-3">
-						<img src="img/carousel-4.jpg">
+					<div class="col-md-3 col-sm-6">
+						<img src="img/carousel-4.jpg" class="a-s a-s-h" />
+						<a href="#" class="link-btn">Visit Site</a>
 					</div>
 				</div>
-				-->
 			</div>
 			
 			<a class="left carousel-control" href="#featured-games-slider" role="button" data-slide="prev">
@@ -53,8 +55,8 @@
 		</div>
 	</div>
 	
-	<div class="clearfix section-1 ml-t">
-		<div class="col-sm-6 p-r p-r-rm">
+	<div class="clearfix section-1">
+		<div class="col-sm-6 p-r p-r-rm ml-t">
 			<h2 class="title m-0">MMOCashout Opportunities</h2>
 			<div class="section pl-d">
 				<img src="img/matrix.png" class="fl-l ml-r" />
@@ -64,7 +66,7 @@
 			</div>
 		</div>
 		
-		<div class="col-sm-6 p-l p-l-rm">
+		<div class="col-sm-6 p-l p-l-rm ml-t">
 			<h2 class="title m-0">MMOCashout Matrix</h2>
 			<div class="section pl-d">
 				<img src="img/opportunities.png" class="fl-l ml-r" />
@@ -90,7 +92,7 @@
 					<a href="#" class="link-btn a-s">JOIN NOW!</a>
 				</center>
 			</div>
-			<a href="#"><img src="img/promo-03.jpg" class="ml-t a-s a-o" width="100%" /></a>
+			<a href="#"><img src="img/promo-03.jpg" class="ml-tb a-s a-o" width="100%" /></a>
 		</div>
 		<div class="col-sm-6 pl-lr pl-lr-rm">
 			<h2 class="title m-0">MMOCashout Forums</h2>
@@ -104,7 +106,7 @@
 			<a href="#"><img src="img/promo-02.jpg" width="100%" class="ml-t" /></a>
 			
 			<h2 class="title m-0 ml-t">In the News</h2>
-			<div class="section news p-d">
+			<div class="section news p-d ml-b">
 				<div class="">
 					<img src="img/new-01.jpg" class="fl-l ml-r ml-r-rm" />
 					<h4 class="fc-br">MMO War Thunder coming to PS4</h4>
@@ -159,7 +161,7 @@
 			</div>
 			
 			<h2 class="title t-sm m-0 ml-t">Join Now!</h2>
-			<div class="section join">
+			<div class="section join ml-b">
 				<img src="img/dragon.gif" width="100%" />
 			</div>
 		</div>
