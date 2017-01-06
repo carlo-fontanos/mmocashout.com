@@ -87,10 +87,10 @@
 				<a href="#"><img src="img/package-4.jpg" class="m-b a-s a-o" width="100%" /></a>
 				
 				<center>
-					<a href="#" class="link-btn">JOIN NOW!</a>
+					<a href="#" class="link-btn a-s">JOIN NOW!</a>
 				</center>
 			</div>
-			<a href="#"><img src="img/promo-03.jpg" class="ml-t" width="100%" /></a>
+			<a href="#"><img src="img/promo-03.jpg" class="ml-t a-s a-o" width="100%" /></a>
 		</div>
 		<div class="col-sm-6 pl-lr pl-lr-rm">
 			<h2 class="title m-0">MMOCashout Forums</h2>
