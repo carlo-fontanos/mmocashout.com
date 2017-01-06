@@ -68,14 +68,32 @@
 								<i>Register now as a founder of MMOCashout &amp;<br /> reap the benefits no other member will ever get!</i>
 							</div>
 						</div>
-						<!--
 						<div class="item">
+							<img src="img/slider-logo.png" class="dollar desappear-992" />
 							<img src="img/slider-2.jpg" class="background" />
+							<div class="message a-s desappear-992">
+								<h3>Welcome to our</h3>
+								<h1>Soft Launch</h1>
+								<h4>Get ahead of everyone else & earn cash by signing <br />up as a founder of MMOCashout today!</h4>
+							</div>
+							<div class="join-now desappear-992">
+								<a href="#" class="a-s">Join Now</a>
+								<i>Register now as a founder of MMOCashout &amp;<br /> reap the benefits no other member will ever get!</i>
+							</div>
 						</div>
 						<div class="item">
+							<img src="img/slider-logo.png" class="dollar desappear-992" />
 							<img src="img/slider-3.jpg" class="background" />
+							<div class="message a-s desappear-992">
+								<h3>Welcome to our</h3>
+								<h1>Soft Launch</h1>
+								<h4>Get ahead of everyone else & earn cash by signing <br />up as a founder of MMOCashout today!</h4>
+							</div>
+							<div class="join-now desappear-992">
+								<a href="#" class="a-s">Join Now</a>
+								<i>Register now as a founder of MMOCashout &amp;<br /> reap the benefits no other member will ever get!</i>
+							</div>
 						</div>
-						-->
 					</div>
 					
 					<a class="left carousel-control" href="#banner-slider" role="button" data-slide="prev">

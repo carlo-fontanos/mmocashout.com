@@ -40,10 +40,24 @@ header .banner .item .join-now i { display: block; margin-top: 20px; }
 .content .news p, .content .blog p, .content .news a { font-size: 12px; }
 .content .packages, .content .join { padding-bottom: 0; }
 
+.footer-wrapper { background: url('../img/footer-bg.jpg') repeat-x center top; }
+footer { padding-top: 65px; position: relative; min-height: 328px; }
+footer h4 { color: #C6AB62; font-size: 18px; font-family: 'im_fell_great_primerregular'; }
+footer .list { float: left; margin-left: 50px; }
+footer .list ul { margin: 0; padding: 0; list-style: none; }
+footer .list ul li a { color: #fff;  font-size: 13px; }
+footer .copyright { position: absolute; bottom: 0; display: block; }
+
 @media screen and (max-width: 1200px) {
 	header .top { background: #01393a; }
 	.override header .top-2 a { float: none; }
 	header .top-2 img { display: block; margin: 0 auto; }
+	
+	.footer-wrapper { background: #002625; padding: 15px; text-align: center; }
+	footer { padding-top: 0; }
+	footer img { display: block; margin: 0 auto; }
+	footer .list { float: none; margin: 0; margin-bottom: 20px; }
+	footer .copyright { position: relative; margin-top: 20px; }
 }
 
 @media screen and (max-width: 992px) {
