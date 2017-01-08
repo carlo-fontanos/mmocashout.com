@@ -96,8 +96,14 @@
 .override .link-btn:hover { background: url('../img/btn-bg-reverse.jpg') repeat-x; }
 .override hr { border-top: 1px solid #003333; }
 
-.override .carousel-control { width: 0; }
-.override .carousel-control img { position: absolute; top: 45%; z-index: 5;}
+.override .carousel-control { position: absolute; top: 45%; z-index: 5; display: inline-block; background: none; opacity: 1; }
+.override .carousel-control.left { left: -110px; }
+.override .carousel-control.right { right: -110px; }
+
+@media screen and (max-width: 1200px) {
+	.override .carousel-control.left { left: 0px; }
+	.override .carousel-control.right { right: 0px; }
+}
 
 @media screen and (max-width: 992px) {
 	.override .desappear-992 { display: none; }
@@ -110,4 +116,6 @@
 	.override .ml-l-rm, .override .m-l-rm { margin-left: 0; }  
 	.override .ml-r-rm, .override .m-r-rm { margin-right: 0; } 
 	.override .ml-lr-rm, .override .m-lr-rm { margin-right: 0; margin-left: 0;}
+	
+	.override .carousel-control.left, .override .carousel-control.right { display: none; }
 }
