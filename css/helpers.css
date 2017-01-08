@@ -106,7 +106,7 @@
 }
 
 @media screen and (max-width: 992px) {
-	.override .desappear-992 { display: none; }
+	.override .desappear-992 { display: none !important; }
 }
 
 @media screen and (max-width: 768px) {
