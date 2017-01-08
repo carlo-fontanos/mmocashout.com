@@ -16,7 +16,7 @@
 	<header class="container">
 		<div class="row">
 			<div class="top clearfix">
-				<select class="a-s">
+				<select>
 					<option>Choose Your Language</option>
 					<option>English</option>
 					<option>Japanese</option>
