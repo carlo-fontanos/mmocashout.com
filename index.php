@@ -7,39 +7,31 @@
 		<div id="featured-games-slider" class="carousel slide" data-ride="carousel">
 			<div class="carousel-inner" role="listbox">
 				<div class="item active text-center">
-					<div class="col-md-3 col-sm-6">
-						<img src="img/carousel-1.jpg" class="a-s a-s-h" />
-						<a href="#" class="link-btn">Visit Site</a>
+					<div class="col-md-3 col-xs-6">
+						<img src="img/character-01.jpg" width="100%" />
 					</div>
-					<div class="col-md-3 col-sm-6">
-						<img src="img/carousel-2.jpg" class="a-s a-s-h" />
-						<a href="#" class="link-btn">Visit Site</a>
+					<div class="col-md-3 col-xs-6">
+						<img src="img/character-02.jpg" width="100%" />
 					</div>
-					<div class="col-md-3 col-sm-6">
-						<img src="img/carousel-3.jpg" class="a-s a-s-h" />
-						<a href="#" class="link-btn">Visit Site</a>
+					<div class="col-md-3 col-xs-6">
+						<img src="img/character-03.jpg" width="100%" />
 					</div>
-					<div class="col-md-3 col-sm-6">
-						<img src="img/carousel-4.jpg" class="a-s a-s-h" />
-						<a href="#" class="link-btn">Visit Site</a>
+					<div class="col-md-3 col-xs-6">
+						<img src="img/character-04.jpg" width="100%" />
 					</div>
 				</div>
 				<div class="item text-center">
-					<div class="col-md-3 col-sm-6">
-						<img src="img/carousel-1.jpg" class="a-s a-s-h" />
-						<a href="#" class="link-btn">Visit Site</a>
+					<div class="col-md-3 col-xs-6">
+						<img src="img/character-05.jpg" width="100%" />
 					</div>
-					<div class="col-md-3 col-sm-6">
-						<img src="img/carousel-2.jpg" class="a-s a-s-h" />
-						<a href="#" class="link-btn">Visit Site</a>
+					<div class="col-md-3 col-xs-6">
+						<img src="img/character-06.jpg" width="100%" />
 					</div>
-					<div class="col-md-3 col-sm-6">
-						<img src="img/carousel-3.jpg" class="a-s a-s-h" />
-						<a href="#" class="link-btn">Visit Site</a>
+					<div class="col-md-3 col-xs-6">
+						<img src="img/character-07.jpg" width="100%" />
 					</div>
-					<div class="col-md-3 col-sm-6">
-						<img src="img/carousel-4.jpg" class="a-s a-s-h" />
-						<a href="#" class="link-btn">Visit Site</a>
+					<div class="col-md-3 col-xs-6">
+						<img src="img/character-08.jpg" width="100%" />
 					</div>
 				</div>
 			</div>
@@ -81,8 +73,7 @@
 		<div class="col-sm-3">
 			<h2 class="title t-sm m-0 ">Affiliate Packages</h2>
 			<div class="section packages p-d">
-				<p>Choose among our affiliate programs we have to offer – be a <span class="fc-br">Squatter</span>, a <span class="fc-br">Peasant</span>, a <span class="fc-br">Squire</span> or a <span class="fc-br">Royal</span> (in classic video gaming terminology) in the MMOCashout Kingdom and Reap the benefits we have in store for you!</p>
-				
+				<p>Choose among our affiliate programs we have to offer – be a <span class="fc-br">Squatter</span>, a <span class="fc-br">Peasant</span>, a <span class="fc-br">Squire</span> or a <span class="fc-br">Royal</span> (in gaming terminology) in the MMOCashout Kingdom!</p>
 				<a href="#"><img src="img/package-1.jpg" class="m-b a-s a-o" width="100%" /></a>
 				<a href="#"><img src="img/package-2.jpg" class="m-b a-s a-o" width="100%" /></a>
 				<a href="#"><img src="img/package-3.jpg" class="m-b a-s a-o" width="100%" /></a>
