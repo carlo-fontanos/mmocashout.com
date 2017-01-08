@@ -56,8 +56,8 @@
 			</div>
 			<div class="col-lg-3">
 				<h4>BROTHER SITES</h4>
-				<a href="#"><img src="img/mmo-buyit-logo.png" class="img-responsive" /></a>
-				<a href="#"><img src="img/mmo-playbook-logo.png" class="img-responsive m-tb" /></a>
+				<a href="#"><img src="img/mmo-buyit-logo.png" class="img-responsive a-o" /></a>
+				<a href="#"><img src="img/mmo-playbook-logo.png" class="img-responsive a-o m-tb" /></a>
 			</div>
 			
 			<div class="col-xs-12 copyright">

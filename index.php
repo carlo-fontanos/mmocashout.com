@@ -103,26 +103,26 @@
 				<a href="#" class="fc-w d-ib m-t">SEE MORE FEEDS &nbsp; <img src="img/arrow.png" /></a>
 			</div>
 			
-			<a href="#"><img src="img/promo-02.jpg" width="100%" class="ml-t" /></a>
+			<a href="#"><img src="img/promo-02.jpg" width="100%" class="ml-t a-o" /></a>
 			
 			<h2 class="title m-0 ml-t">In the News</h2>
 			<div class="section news p-d ml-b">
 				<div class="">
-					<img src="img/new-01.jpg" class="fl-l ml-r ml-r-rm" />
+					<a href="#"><img src="img/new-01.jpg" class="fl-l ml-r ml-r-rm a-s a-o" /></a>
 					<h4 class="fc-br">MMO War Thunder coming to PS4</h4>
 					<p>Gaijin Entertainment is bringing its military-themed massively multiplayer online game War Thunder to the PlayStation 4 this holiday, the publisher announced today.</p>
 					<a href="#" class="fc-g">READ ON</a>
 				</div>
 				<hr />
 				<div class="">
-					<img src="img/new-02.jpg" class="fl-l ml-r ml-r-rm" />
+					<a href="#"><img src="img/new-02.jpg" class="fl-l ml-r ml-r-rm a-s a-o" /></a>
 					<h4 class="fc-br">MMO War Thunder coming to PS4</h4>
 					<p>Gaijin Entertainment is bringing its military-themed massively multiplayer online game War Thunder to the PlayStation 4 this holiday, the publisher announced today.</p>
 					<a href="#" class="fc-g">READ ON</a>
 				</div>
 				<hr />
 				<div class="">
-					<img src="img/new-03.jpg" class="fl-l ml-r ml-r-rm" />
+					<a href="#"><img src="img/new-03.jpg" class="fl-l ml-r ml-r-rm a-s a-o" /></a>
 					<h4 class="fc-br">MMO War Thunder coming to PS4</h4>
 					<p>Gaijin Entertainment is bringing its military-themed massively multiplayer online game War Thunder to the PlayStation 4 this holiday, the publisher announced today.</p>
 					<a href="#" class="fc-g">READ ON</a>
