@@ -44,11 +44,11 @@
 				</div>
 			</div>
 			
-			<a class="left carousel-control" href="#featured-games-slider" role="button" data-slide="prev">
+			<a class="left carousel-control a-o" href="#featured-games-slider" role="button" data-slide="prev">
 				<img src="img/nav-left.png" />
 				<span class="sr-only">Previous</span>
 			</a>
-			<a class="right carousel-control" href="#featured-games-slider" role="button" data-slide="next">
+			<a class="right carousel-control a-o" href="#featured-games-slider" role="button" data-slide="next">
 				<img src="img/nav-right.png" />
 				<span class="sr-only">Next</span>
 			</a>
