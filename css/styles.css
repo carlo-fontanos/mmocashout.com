@@ -32,7 +32,7 @@ header .banner .item .join-now i { display: block; margin-top: 20px; }
 
 .content { background: url('../img/bg-center.jpg') no-repeat center center;}
 .content .title { background: url('../img/post-title-bg.jpg') repeat-x #101b31; min-height: 45px; line-height: 45px; font-family: 'im_fell_great_primerregular'; font-size: 24px; text-align: center; }
-.content .section { background: url('../img/featured-games-bg.jpg') repeat-x #002928; padding-bottom: 25px; } 
+.content .section { background: url('../img/featured-games-bg.jpg') repeat-x #002c2b; padding-bottom: 25px; } 
 .content .section-1 .featured-games .slide img { margin-top: 15px; cursor: pointer; }
 .content .section-2 .title { font-size: 20px; text-align: left; padding: 0 12px; }
 .content .news h4 { font-size: 16px; margin: 0 0 5px 0; }
